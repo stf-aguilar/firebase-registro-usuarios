@@ -8,4 +8,5 @@
 - Firebase Authentication 
 - Xampp
 
-%md <a href="https://stf-aguilar.github.io/firebase-registro-usuarios/" target="_blank">Ver sitio</a>
+[Ver login](https://stf-aguilar.github.io/firebase-registro-usuarios/)
+   
