@@ -8,5 +8,5 @@
 - Firebase Authentication 
 - Xampp
 
-[Ver login](https://stf-aguilar.github.io/firebase-registro-usuarios/)
+[Click aquí](https://stf-aguilar.github.io/firebase-registro-usuarios/)
    
